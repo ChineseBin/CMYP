@@ -1,2 +1,7 @@
-git is a distributed version control system.
-git is free software.
+monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+sunday
